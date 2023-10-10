@@ -1,0 +1,7 @@
+print("code")
+print("woh are you")
+print("*********")
+print("*********")
+print("*********")
+print("*********")
+print("*********")
